@@ -1,4 +1,4 @@
-Hi 👋 My name is Jaypal Sapara
+Hi 👋 I'm Jaypal Sapara
 ==============================
 
 Web Developer
