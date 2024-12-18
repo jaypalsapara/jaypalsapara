@@ -4,7 +4,7 @@ Hi 👋 I'm Jaypal Sapara
 Web Developer
 -------------
 
-I have 2+ years of experience in Laravel development. My expertise in Laravel, MySQL, PHP, JavaScript, Jquery, React, Tailwind, Bootstrap, Git, CSS, HTML, and able to deploy the site on a Linux server with SSL.
+I have 2.5+ years of experience in Laravel development. My expertise in Laravel, MySQL, PHP, JavaScript, Jquery, React, Tailwind, Bootstrap, Git, CSS, HTML, and able to deploy the site on a Linux server with SSL.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://jaypal-sapara.github.io/](http://jaypal-sapara.github.io/)
