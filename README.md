@@ -6,6 +6,8 @@ Web Developer
 
 I have 3+ years of experience in Laravel development. My expertise in Laravel, MySQL, PHP, JavaScript, Jquery, React, Tailwind, Bootstrap, Git, CSS, HTML, and able to deploy the site on a Linux server with SSL.
 
+![Profile Views](https://komarev.com/ghpvc/?username=jaypalsapara&label=Profile%20view)
+
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [jaypalsapara.in](https://jaypalsapara.in/)
 * 🧠  I'm learning React and React + Laravel
@@ -23,6 +25,3 @@ I have 3+ years of experience in Laravel development. My expertise in Laravel, M
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/jaypal-sapara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jaypal-sapara-61950b230/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/jaypal__sapara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=jaypalsapara&label=Profile%20view)
