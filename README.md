@@ -10,7 +10,7 @@ I have 3+ years of experience in Laravel development. My expertise in Laravel, M
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [jaypalsapara.in](https://jaypalsapara.in/)
-* 🧠  I'm learning React and React + Laravel
+* 🧠  Developing...
 * 🤝  I'm open to collaborating on all type of project
 
 
