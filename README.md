@@ -1,27 +1,64 @@
-Hi 👋 I'm Jaypal Sapara
-==============================
+# Hi, I'm Jaypal 👋
 
-Web Developer
--------------
+Full stack developer ― [jaypalsapara.in](https://jaypalsapara.in)
 
-I have 3+ years of experience in Laravel development. My expertise in Laravel, MySQL, PHP, JavaScript, Jquery, React, Tailwind, Bootstrap, Git, CSS, HTML, and able to deploy the site on a Linux server with SSL.
-
-![Profile Views](https://komarev.com/ghpvc/?username=jaypalsapara&label=Profile%20view)
-
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [jaypalsapara.in](https://jaypalsapara.in/)
-* 🧠  Developing...
-* 🤝  I'm open to collaborating on all type of project
+I design and develop web application that drive result. Fast response, Secure, Responsive UI, and Clean code structure are baseline of each project. I take forward a project from **idea to enterprise.**
 
 
-### Skills
+After successfully launch, I will take responsibility to maintain project and achieve client's end goal.
 
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+### 📦 What You'll Receive
+
+List of what you can expect from my service
+
+- System design that define core
+- Well maintain code and structured project
+- Fast, secure and responsive web application
+- Support for images optimized for fast loading, ensuring users rarely see placeholders.
+- Lightning fast REST APIs with a response time of approximately 82ms.
+- Hosting and server configuration.
+- Handling traffic of thousands of active users
+- Providing updates without downtime
+- Test, fix, deploy and repeat
+- Third party integration <span style="color:gray">(Optional)</span>
+- Payment getaway integration <span style="color:gray">(Optional)</span>
+- Real-time updates, backups and background processing <span style="color:gray">(Optional)</span>
+- Ranking your web application on google with SEO <span style="color:gray">(Optional)</span>
+- Conversion tactics and analytics <span style="color:gray">(Optional)</span>
 
 
-### Socials
+### ✨ Favorite stack
 
-<p align="left"> <a href="https://www.github.com/jaypalsapara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jaypal-sapara-61950b230/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/jaypal__sapara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+Love to work with this stack and also expert on it
+
+**The stack:** `Laravel (PHP)`, `React (TypeScript)`, `InertiaJS`, `Shadcn/ui`, `Tailwind CSS`, `MySQL`, `Redis`, `Nginx`
+
+
+### 🛠️ I can work with
+
+I am an expert at this.
+
+| Type | Technologies |
+| --- | --- |
+| **Backend** | Laravel, PHP  |
+| **Frontend** | React, TypeScript, JavaScript, InertiaJS, AlpineJs, jQuery |
+| **Style** | Shadcn/ui, Tailwind CSS, Bootstrap, CSS, HTML |
+| **Database** | MySQL, SQLite, IndexedDB |
+| **Cloud Service** | AWS, DigitalOcean, Hostinger |
+| **Server** | Nginx, Apache, cPanel |
+| **Version** | Git, GitHub |
+| **APIs** | REST APIs, Third party APIs |
+| **Others** | Postman, Photoshop, Figma |
+| **Payment Getaway** | Stripe, Paypal, Razorpay |
+| **Authentication** | Google, Facebook, Apple |
+| **Third-Party** | Firebase, Maps, Agora, Algolia, Typesense |
+
+**Advanced:** Not just CRUD but also expert in workflow, caching strategy, large dataset handling, background jobs, queue strategy, backups, zero downtime deployment, CI/CD pipeline, Task scheduling, Real-time updates
+
+
+### 📧 How to contact me?
+
+**Email:** [hellojaypalsapara@gmail.com](mailto:hellojaypalsapara@gmail.com) \
+**Twitter:** [Twitter](https://x.com/jaypal__sapara) \
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jaypalsapara)
