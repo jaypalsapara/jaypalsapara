@@ -1,4 +1,4 @@
-# Hi, I'm Jaypal 👋
+# Hi, I'm Jaypal Sapara 👋
 
 Full stack developer ― [jaypalsapara.in](https://jaypalsapara.in)
 
@@ -54,11 +54,12 @@ I am an expert at this.
 | **Authentication** | Google, Facebook, Apple |
 | **Third-Party** | Firebase, Maps, Agora, Algolia, Typesense |
 
-**Advanced:** Not just CRUD but also expert in workflow, caching strategy, large dataset handling, background jobs, queue strategy, backups, zero downtime deployment, CI/CD pipeline, Task scheduling, Real-time updates
-
+>[!NOTE]
+> **Advanced** Not just CRUD but also expert in workflow, caching strategy, large dataset handling, background jobs, queue strategy, backups, zero downtime deployment, CI/CD pipeline, Task scheduling, Real-time updates
 
 ### 📧 How to contact me?
 
+Let's collaborate and build that drive results.
+
 **Email:** [hellojaypalsapara@gmail.com](mailto:hellojaypalsapara@gmail.com) \
-**Twitter:** [Twitter](https://x.com/jaypal__sapara) \
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jaypalsapara)
+**Social:** [Twitter](https://x.com/jaypal__sapara) · [LinkedIn](https://www.linkedin.com/in/jaypalsapara)
