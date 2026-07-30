@@ -8,7 +8,7 @@ After successfully launch, I will take responsibility to maintain project and ac
 
 ---
 
-Jump to: [What You'll Receive](#-what-you'll-receive) | [Effective Stack](#-favorite-stack) | [How to contact me?](#-what-you'll-receive)
+Jump to: [What You'll Receive](#-what-youll-receive) | [Effective Stack](#-effective-stack) | [How to contact me?](#-how-to-contact-me)
 
 
 
