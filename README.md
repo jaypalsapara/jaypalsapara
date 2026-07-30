@@ -55,7 +55,7 @@ I am an expert at this.
 | **Third-Party** | Firebase, Maps, Agora, Algolia, Typesense |
 
 >[!NOTE]
-> **Advanced** Not just CRUD but also expert in workflow, caching strategy, large dataset handling, background jobs, queue strategy, backups, zero downtime deployment, CI/CD pipeline, Task scheduling, Real-time updates
+> **Advanced:** Not just CRUD but also expert in workflow, caching strategy, large dataset handling, background jobs, queue strategy, backups, zero downtime deployment, CI/CD pipeline, Task scheduling, Real-time updates
 
 ### 📧 How to contact me?
 
