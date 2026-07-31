@@ -75,7 +75,8 @@ I am an expert at this.
 Let's collaborate and build that drive results.
 
 **Email:** [hellojaypalsapara@gmail.com](mailto:hellojaypalsapara@gmail.com) \
-**Social:** [Twitter](https://x.com/jaypal__sapara) · [LinkedIn](https://www.linkedin.com/in/jaypalsapara)
+**Social:** [Twitter](https://x.com/jaypal__sapara) · [LinkedIn](https://www.linkedin.com/in/jaypalsapara) \
+**Upwork:** [Hire me](https://www.upwork.com/freelancers/~01c82ba1bdfd7ed735?mp_source=share)
 
 <br>
 <br>
