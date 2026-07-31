@@ -8,7 +8,7 @@ After successfully launch, I will take responsibility to maintain project and ac
 
 ---
 
-Jump to: [What You'll Receive](#-what-youll-receive) | [Effective Stack](#-effective-stack) | [Technologies](#%EF%B8%8F-technologies) | [How to contact me?](#-how-to-contact-me)
+Jump to: [What You'll Receive](#-what-youll-receive) | [Effective Stack](#-effective-stack) | [Technologies](#%EF%B8%8F-technologies) | [Testimonials](#-testimonials) | [How to contact me?](#-how-to-contact-me)
 
 
 
@@ -60,9 +60,10 @@ I am an expert at this.
 > **Advanced:** Not just CRUD but also expert in workflow, caching strategy, large dataset handling, background jobs, queue strategy, backups, zero downtime deployment, CI/CD pipeline, Task scheduling, Real-time updates, SEO, Load balancing
 
 
-### 💬 Testimonial
+### 💬 Testimonials
 
-> ### ★★★★★
+> ★★★★★ \
+> \
 >"Jaypal was fantastic to work with. He handled the entire backend development process with a high level of expertise and professionalism. His technical knowledge is excellent, his communication is clear, and he consistently delivered work on time. He approached every challenge calmly and provided effective solutions without hesitation. I’m extremely satisfied with the results and will definitely hire him again for future projects. Highly recommended!" \
 > \
 > Endorsed by client _(from Upwork)_
