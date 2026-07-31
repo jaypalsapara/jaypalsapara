@@ -59,6 +59,16 @@ I am an expert at this.
 > [!NOTE]
 > **Advanced:** Not just CRUD but also expert in workflow, caching strategy, large dataset handling, background jobs, queue strategy, backups, zero downtime deployment, CI/CD pipeline, Task scheduling, Real-time updates, SEO, Load balancing
 
+
+### 💬 Testimonial
+
+> ### ★★★★★
+>"Jaypal was fantastic to work with. He handled the entire backend development process with a high level of expertise and professionalism. His technical knowledge is excellent, his communication is clear, and he consistently delivered work on time. He approached every challenge calmly and provided effective solutions without hesitation. I’m extremely satisfied with the results and will definitely hire him again for future projects. Highly recommended!" \
+> \
+> Endorsed by client _(from Upwork)_
+
+
+
 ### 📧 How to contact me?
 
 Let's collaborate and build that drive results.
