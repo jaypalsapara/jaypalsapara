@@ -37,7 +37,7 @@ Love to work with this stack and also expert on it
 
 **The stack:** `Laravel (PHP)`, `React (TypeScript)`, `InertiaJS`, `Shadcn/ui`, `Tailwind CSS`, `MySQL`, `Redis`, `Nginx`
 
-### 🛠️ I can work with
+### 🛠️ Technologies
 
 I am an expert at this.
 
