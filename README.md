@@ -67,11 +67,12 @@ Let's collaborate and build that drive results.
 **Social:** [Twitter](https://x.com/jaypal__sapara) · [LinkedIn](https://www.linkedin.com/in/jaypalsapara)
 
 
-
+```
      ██╗ █████╗ ██╗   ██╗██████╗  █████╗ ██╗     
      ██║██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗██║     
      ██║███████║ ╚████╔╝ ██████╔╝███████║██║     
 ██   ██║██╔══██║  ╚██╔╝  ██╔═══╝ ██╔══██║██║     
 ╚█████╔╝██║  ██║   ██║   ██║     ██║  ██║███████╗
  ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝╚══════╝
+ ```
                                                  
