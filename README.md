@@ -35,7 +35,7 @@ List of what you can expect from my service
 
 Love to work with this stack and also expert on it
 
-**The stack:** `Laravel (PHP)`, `React (TypeScript)`, `InertiaJS`, `Shadcn/ui`,`motion`, `Tailwind CSS`, `MySQL`, `Redis`, `Nginx`
+**The stack:** `Laravel (PHP)`, `React (TypeScript)`, `InertiaJS`, `Shadcn/ui`,`Motion`, `Tailwind CSS`, `MySQL`, `Redis`, `Nginx`
 
 ### 🛠️ Technologies
 
