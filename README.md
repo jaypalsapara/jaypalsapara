@@ -68,6 +68,12 @@ I am an expert at this.
 > \
 > Endorsed by client _(from Upwork)_
 
+> ★★★★★ \
+> \
+>"He has worked really well, with open heart and gone beyond work requirement and my expectations. Best decision to hire such a talent." \
+> \
+> Endorsed by client _(from Upwork)_
+
 
 
 ### 📧 How to contact me?
